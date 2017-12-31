@@ -47,5 +47,5 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(7).png" class="centerImage" width="750" height="450"/> 
 
 5. Set ALO population size,`Pop. Size` , and the maximum number of iterations, `Generatio`.
-6. Press `Run ALO` button to start the optimization process and find the maximum number of optimal exchanges among the pairs.  
+6. Press `Run ALO` button to start the optimization process and find the maximum number of possible exchanges among the pool pairs.  
 7. .
