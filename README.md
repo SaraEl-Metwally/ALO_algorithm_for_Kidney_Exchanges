@@ -18,6 +18,7 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 > `git clone https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges.git`
 2. Run using MATLAB `ALO_toolbox.m` in the repo directory. 
    - The following window will appear to you!
+   
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(1).png" class="centerImage" width="750" height="450"/>
 
 3. You have two options:
@@ -27,6 +28,7 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
       - The bi-directional arcs drew by a black color. 
       - An arc from n to m where n > m drew by a red color. 
       - An arc from n to m where n < m drew by a blue color.
+      
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(2).png" class="centerImage" width="750" height="450"/> 
     
     -  Option 2: load a KPD pool that previously generated from a simulation step.
@@ -53,4 +55,6 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 7. The total number of exchanges/ matches returned by ALO is shown in the field entitled `The current fitness`.
 8. The total number of exchanges/ matches returned by ALO followed by the post-processing step is shown in the field entitled `Number of matched`.
 9. The resulting exchanges/ matches is listed in a list box entitled `Solution`.
-10. If the resulting solution is non feasible (a solution contains nodes that are involved in multiple exchanges), the `Number of matched` will be displayed as `Infeasible Solution!`.   
+10. If the resulting solution is non feasible (a solution contains nodes that are involved in multiple exchanges), the `Number of matched` will be displayed as `Infeasible Solution!`. 
+
+   <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(4).png" class="centerImage" width="750" height="450"/> 
