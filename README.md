@@ -48,6 +48,6 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 
 5. Set ALO population size,`Pop. Size` , and the maximum number of iterations, `Generatio`.
 6. Press `Run ALO` button to start the optimization process and find the maximum number of possible exchanges among the pool pairs. 
-<br>
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(3).png" class="centerImage" width="750" height="450"/> 
 7. The total number of exchanges/ matches returned by ALO is shown in the field entitled `The current fitness`.
+8. The total number of exchanges/ matches returned by ALO followed by the post-processing step is shown in the field entitled `number of matches`.
