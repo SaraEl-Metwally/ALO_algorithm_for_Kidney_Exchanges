@@ -18,7 +18,6 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 > `git clone https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges.git`
 2. Run using MATLAB `ALO_toolbox.m` in the repo directory. 
    - The following window will appear to you!
-   <br>
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(1).png" class="centerImage" width="750" height="450"/>
 
 3. You have two options:
@@ -28,23 +27,22 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
       - The bi-directional arcs drew by a black color. 
       - An arc from n to m where n > m drew by a red color. 
       - An arc from n to m where n < m drew by a blue color.
-      <br>
-   <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(2).png" class="centerImage" width="750" height="450"/> <br> 
+   <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(2).png" class="centerImage" width="750" height="450"/> 
     
     -  Option 2: load a KPD pool that previously generated from a simulation step.
        - To load your simulated data correctly, you should have two files: `Alt.txt` and `Edges.txt`. 
        -  File `Alt.txt` contains the altruistic donors information. 
        -  File `Edges.txt` contains the compatibility information represented by edges.
       
-     <br>
+     
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(5).png" class="centerImage" width="750" height="450"/>
-     <br> 
+     
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(6).png" class="centerImage" width="750" height="450"/> 
-     <br>
+     
 
 4. All extracted chains and cycles from a KPD pool generated from <b> step no. 3 </b> are shown in a list box entitled `All cycles and chains `.
-<br>
-   <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(7).png" class="centerImage" width="750" height="450"/> 
+
+    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(7).png" class="centerImage" width="750" height="450"/> 
 
 5. Set ALO population size,`Pop. Size` , and the maximum number of iterations, `Generatio`.
 6. Press `Run ALO` button to start the optimization process and find the maximum number of possible exchanges among the pool pairs. 
