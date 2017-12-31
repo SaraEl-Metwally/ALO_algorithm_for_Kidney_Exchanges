@@ -41,4 +41,7 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
      <br> 
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(6).png" class="centerImage" width="750" height="450"/> 
      <br>
+
+4. All extracted chains and cycles from a KPD pool generated from <b> step no. 3 </b> are shown in a list box entitled <b> `All cycles and chains `</b>.
+<br>
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(7).png" class="centerImage" width="750" height="450"/> <br>
