@@ -18,3 +18,5 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 > `git clone https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges.git`
 2. Run using MATLAB `ALO_toolbox.m` in the repo directory. The following window will appear to you!
 ![Image 1](https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(1).png)
+
+<img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(1).png" width="200" height="400" />
