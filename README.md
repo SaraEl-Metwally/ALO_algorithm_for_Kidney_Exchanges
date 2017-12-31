@@ -22,11 +22,11 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 
 3. You have two options:
    -  Option 1: create a new KPD pool randomlly and this will generate the following graph: 
-     - Each number reprsents patient/donor pairs , and red numbers dentoe alturstic donors.
-     - Arcs reprsent the comptitabilty information between the nodes (i.e. pairs). 
-     - The bi-directional arcs drew by a black color. 
-     - An arc from n to m where n > m draw by a red color 
-     - An arc from n to m where n < m draw by a blue color
+      - Each number reprsents patient/donor pairs , and red numbers dentoe alturstic donors.
+      - Arcs reprsent the comptitabilty information between the nodes (i.e. pairs). 
+      - The bi-directional arcs drew by a black color. 
+      - An arc from n to m where n > m draw by a red color 
+      - An arc from n to m where n < m draw by a blue color
      
    <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(2).png" class="centerImage" width="750" height="450"/>
    
