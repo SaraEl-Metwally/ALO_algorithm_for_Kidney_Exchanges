@@ -17,8 +17,8 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 1. Clone the [GitHub repo](https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges), e.g. with:
 > `git clone https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges.git`
 2. Run using MATLAB `ALO_toolbox.m` in the repo directory. 
-   -The following window will appear to you!
-<img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(1).png" class="centerImage" width="750" height="450"/>
+   - The following window will appear to you!
+   <img src="https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/blob/master/Snapshots/image(1).png" class="centerImage" width="750" height="450"/>
 
 3. You have two options:
    - Create a new KPD pool randomlly and this will generate a graph like the following:  
