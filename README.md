@@ -8,4 +8,4 @@ Ant Lion Optimization is a bio-inspired stochastic-based algorithm that mimics t
 <p align="justify">
 Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and the integration of weights for hard-to-match patients, which will improve the future decisions of kidney exchange programs.</p>
 <br>
-Copyright (C) 2017-2018, and GNU GPL, by Eslam Hamouda, Sara El-Metwally, and Mayada Tarek.
+<b>Copyright (C) 2017-2018, and GNU GPL, by Eslam Hamouda, Sara El-Metwally, and Mayada Tarek.</b>
