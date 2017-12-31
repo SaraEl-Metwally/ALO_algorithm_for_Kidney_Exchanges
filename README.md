@@ -51,4 +51,6 @@ Ant Lion Optimization algorithm can be adopted easily for on-line exchanges and 
 
     
 7. The total number of exchanges/ matches returned by ALO is shown in the field entitled `The current fitness`.
-8. The total number of exchanges/ matches returned by ALO followed by the post-processing step is shown in the field entitled `number of matched`.
+8. The total number of exchanges/ matches returned by ALO followed by the post-processing step is shown in the field entitled `Number of matched`.
+9. The resulting exchanges/ matches is listed in a list box entitled `Solution`.
+10. If the resulting solution is non feasible (a solution contains nodes that are involved in multiple exchanges), the `Number of matched` will be displayed as `Infeasible Solution!`.   
