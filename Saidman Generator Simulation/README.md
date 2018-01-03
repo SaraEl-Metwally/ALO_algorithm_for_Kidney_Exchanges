@@ -34,4 +34,4 @@ java -cp ".:jgrapht-0.8.2.jar:junit-4.7.jar" KidenyExchangeProgramGeneratorTest 
 2,18,1.0
 3,7,1.0
  ```
- - `Verts.txt`
+ - `Verts.txt`: contains the blood types information of the pairs in the pool. `Verts` 
