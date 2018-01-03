@@ -28,5 +28,10 @@ java -cp ".:jgrapht-0.8.2.jar:junit-4.7.jar" KidenyExchangeProgramGeneratorTest 
  1
  1
  ```
- - `Edges.txt`
+ - `Edges.txt`: contains the compatibility matches among the pairs in the pool, the first line in the following file snip `pairs no. 1` could exchange with `pairs no. 7` and the weight assigned to this exchange is `1.0`. 
+  ```
+1,7,1.0
+2,18,1.0
+3,7,1.0
+ ```
  - `Verts.txt`
