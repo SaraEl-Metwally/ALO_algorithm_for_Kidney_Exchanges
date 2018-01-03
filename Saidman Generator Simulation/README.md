@@ -36,4 +36,4 @@ java -cp ".:jgrapht-0.8.2.jar:junit-4.7.jar" KidenyExchangeProgramGeneratorTest 
  ```
  - `Verts.txt`: contains the blood types information of the pairs in the pool. `Verts`.
  7. Use `Alt.txt` and `Edges.txt` files as inputs to run the `ALO_toolbox.m` in the repo directory.  
- 8. Examples of the simulated data sets can be found in this [folder](https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/tree/master/Simulation-UNOS)
+ 8. Examples of the simulated data sets can be found in this [folder](https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges/tree/master/Simulation-UNOS).
