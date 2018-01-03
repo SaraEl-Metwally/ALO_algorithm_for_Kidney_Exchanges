@@ -13,8 +13,20 @@ In this version, we used  `junit-4.7.jar ` and  `jgrapht-0.8.2.jar `.
 ```
 javac -cp ".:jgrapht-0.8.2.jar:junit-4.7.jar" KidenyExchangeProgramGeneratorTest.java
 ```
-4. The two parameters supplied to the simulator is `No. pairs` and `prob. Alt`, which are the total number of pairs in the KPD pool and the probability that donors are altruists respectively. 
+4. The two parameters supplied to the simulator is `No_Pairs` and `Prob_Alt_donor`, which are the total number of pairs in the KPD pool and the probability that a donor is an altruist respectively. 
 5. Run the java file named `KidenyExchangeProgramGeneratorTest.java` with the following command:  
 ```
 java -cp ".:jgrapht-0.8.2.jar:junit-4.7.jar" KidenyExchangeProgramGeneratorTest 200 0.045 
+
 ```
+6. There are three output files from the simulator: 
+ - `Alt.txt`: The binary representation file for the individuals in the pool where 0 means patient/donor pairs and 1 means altruistic donor. In the following snip of the file, there are five individuals in the pool, three of them are ordinary patient/donor pairs and the other two are altruistic donors.     
+ ```
+ 0
+ 0
+ 0
+ 1
+ 1
+ ```
+ - `Edges.txt`
+ - `Verts.txt`
