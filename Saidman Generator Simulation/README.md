@@ -3,4 +3,13 @@ We utilized some parts of the code written for [this project](https://github.com
 
 #### System requirements 
 32-bit/64-bit Windows/Linux machine with (JDK and JRE that supports  `junit-*.*.jar ` and  `jgrapht-*.*.jar `).
-In this version, we used  `junit-4.7.jar ` and  `jgrapht-0.8.2.jar `. 
+In this version, we used  `junit-4.7.jar ` and  `jgrapht-0.8.2.jar `.
+
+#### Quick usage guide 
+1. Clone the [GitHub repo](https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges), e.g. with:
+> `git clone https://github.com/SaraEl-Metwally/ALO_algorithm_for_Kidney_Exchanges.git`
+2. Go to the folder Saidman Generator Simulation.
+3. Compile the java file named `KidenyExchangeProgramGeneratorTest.java` withe the following command: 
+```
+javac -cp ".:jgrapht-0.8.2.jar:junit-4.7.jar" KidenyExchangeProgramGeneratorTest.java
+```
